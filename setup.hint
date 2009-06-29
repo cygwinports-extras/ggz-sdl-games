@@ -1,5 +1,5 @@
 category: Games
-requires: cygwin ggz-client-libs libGL1 libSDL12 libSDL_image libSDL_mixer libSDL_ttf libX11_6 libXcursor1 libggz2 libggzmod4
+requires: ggz-client-libs libGL1 libSDL12 libSDL_image libSDL_mixer libSDL_ttf libX11_6 libXcursor1 libggz2 libggzmod4
 sdesc: "GGZ Gaming Zone SDL games"
 ldesc: "Two SDL games running in fullscreen mode have found their way 
 into this package so far: the Geekgame and the OpenGL-based TTT3D, a 
